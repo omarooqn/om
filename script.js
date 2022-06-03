@@ -1,4 +1,3 @@
-//song list
 
 let All_song = [
 
